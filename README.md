@@ -5,7 +5,7 @@
 I am an engineering student studying **Artificial Intelligence & Data Science**.
 
 - 🌍 I'm based in Pune, Maharashtra, India
-- ✉️ You can contact me at [adageprayag@gmail.com](mailto:prayagadage@gmail.com)
+- ✉️ You can contact me at [adageprayag@gmail.com](mailto:adageprayag@gmail.com)
 - 🚀 Currently building AI-powered apps with real-world impact
 
 ---
@@ -32,23 +32,4 @@ I am an engineering student studying **Artificial Intelligence & Data Science**.
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;&nbsp;
-<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React Native" /></a>&nbsp;&nbsp;
-<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;&nbsp;
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prayagadage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayagadage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</p>
-
----
-
-### 🔥 Streak:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayagadage&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
