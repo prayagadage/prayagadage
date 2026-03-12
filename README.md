@@ -13,7 +13,7 @@ I am an engineering student studying **Artificial Intelligence & Data Science**.
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prayagadage" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prayag-adage-b7b892249/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://github.com/prayagadage" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>&nbsp;&nbsp;
 </p>
 
